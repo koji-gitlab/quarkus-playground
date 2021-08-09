@@ -29,6 +29,10 @@ If you want to build an _über-jar_, execute the following command:
 
 The application is now runnable using `java -jar target/quarkus-app/quarkus-run.jar`.
 
+## Accessing APIs from Swagger
+
+The APIs can be accessed at http://localhost:8080/q/swagger-ui/
+
 ## Creating a native executable
 
 You can create a native executable using: 
